@@ -4,6 +4,7 @@
 
 ```yaml
 type: NotebookTask
+key: 997dc520a0
 ```
 
 `@context`
@@ -32,6 +33,7 @@ These are explicit instructions showing the student how to solve the task.
 
 ```yaml
 type: NotebookTask
+key: 67fb1b45bd
 ```
 
 `@context`
